@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobin-newroz
 - 👀 I’m interested in Learning New Technology
-- 🌱 I’m currently learning Laravel Nova, develop some tiny laravel packges
-- 💞️ I’m looking to collaborate on API Development.
+- 🌱 I’m currently playing with Laravel and Node
+- 💞️ I’m looking to collaborate In Laravel Apps.
 - 📫 How to reach me @mobin-newroz on github
 
 <!---
