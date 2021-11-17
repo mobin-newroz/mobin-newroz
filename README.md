@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobin-newroz
 - 👀 I’m interested in Learning New Technology
-- 🌱 I’m currently playing with Laravel and Node
+- 🌱 I’m currently playing with PHP and Node
 - 💞️ I’m looking to collaborate In Laravel Apps.
 - 📫 How to reach me @mobin-newroz on github
 
