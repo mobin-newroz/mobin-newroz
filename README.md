@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mobinrz
+- 👋 Hi, I’m Abu Horaira Mobin
 - 👀 I’m interested in Learning New Technology
-- 🌱 I’m currently playing with PHP and Node
+- 🌱 I’m currently playing with PHP and Java
 - 💞️ I’m looking to collaborate In Laravel Apps.
-- 📫 How to reach me @mobin-newroz on github
+- 📫 How to reach me @mobinrz on github
 
 <!---
 mobin-newroz/mobin-newroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
