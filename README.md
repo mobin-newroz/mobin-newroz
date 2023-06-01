@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mobin-newroz
+- 👋 Hi, I’m @mobinrz
 - 👀 I’m interested in Learning New Technology
 - 🌱 I’m currently playing with PHP and Node
 - 💞️ I’m looking to collaborate In Laravel Apps.
